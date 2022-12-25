@@ -16,7 +16,7 @@ Senior Artificial Intelligence Engineer and Inventor
 
 `Python 3.9.8`
 
-###**Libraries Used:**
+### **Libraries Used:**
 
 `Tensorflow - Keras`
 
